@@ -52,4 +52,6 @@ Research based Project Summary; By leveraging the power of the Inception model, 
 
 ![-](https://github.com/SohelRana-aiub-Pro/Automatic-Car-License-Number-Plate-Detection-Recognition/assets/133596903/e55b6ce6-bc2f-41c0-8fa5-7f7e67de0496)
 
-Dataset used; https://www.kaggle.com/datasets/aslanahmedov/number-plate-detection
+Dataset Available; 
+->https://www.kaggle.com/datasets/aslanahmedov/number-plate-detection
+->https://www.kaggle.com/datasets/adityadesai13/used-car-dataset-ford-and-mercedes
