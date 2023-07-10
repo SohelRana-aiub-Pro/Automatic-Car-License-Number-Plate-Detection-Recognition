@@ -46,9 +46,10 @@ Implement the license plate detection and recognition algorithms using a program
 Integrate the system with a database or storage mechanism to store the recognized license plate numbers along with the corresponding timestamps and other relevant information.
 
 Research based Project Summary; By leveraging the power of the Inception model, we propose a solution for automatic car license number plate detection and recognition. This system will significantly contribute to various applications, such as traffic monitoring, parking management, law enforcement, and toll collection. The proposed solution combines the strengths of deep learning, computer vision techniques, and OCR algorithms.
-Sample Predicted output of the test Datasets;
 
 
+->Sample Predicted output of the test Datasets;
 
 ![-](https://github.com/SohelRana-aiub-Pro/Automatic-Car-License-Number-Plate-Detection-Recognition/assets/133596903/e55b6ce6-bc2f-41c0-8fa5-7f7e67de0496)
 
+Dataset used; https://www.kaggle.com/datasets/aslanahmedov/number-plate-detection
