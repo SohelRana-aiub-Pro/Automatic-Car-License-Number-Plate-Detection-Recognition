@@ -12,7 +12,7 @@ The primary objective of this project is to develop a reliable and efficient sys
 
 Proposed Solution:
 
-1. Dataset Preparation:--------------
+1. Dataset Preparation:
 
 Collect a diverse dataset of car images or videos with labeled license plate regions.
 Annotate the license plate regions in the images or videos to create ground truth data.
