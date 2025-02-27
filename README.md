@@ -11,7 +11,7 @@ The primary objective of this project is to develop a reliable and efficient sys
 
 
 Proposed Solution:
-
+-----------------------------------------------------------------------
 1. Dataset Preparation:
 
 Collect a diverse dataset of car images or videos with labeled license plate regions.
