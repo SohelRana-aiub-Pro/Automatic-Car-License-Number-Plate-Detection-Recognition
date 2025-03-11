@@ -57,5 +57,6 @@ Dataset Available;
 
 ->https://www.kaggle.com/datasets/aslanahmedov/number-plate-detection
 
-
 ->https://www.kaggle.com/datasets/adityadesai13/used-car-dataset-ford-and-mercedes
+
+Example Codes & Prototypes;
