@@ -1,4 +1,4 @@
-Automatic-Car-License-Number-Plate-Detection-Recognition; Question about the scene
+Automatic-Car-License-Number-Plate-Detection-Recognition;
 
 ->Car number plate detection is a technology-driven solution that involves the automatic identification and recognition of vehicle number plates using image processing and computer vision techniques. This use case demonstrates how car number plate detection can be employed in various real-world scenarios to enhance safety, security, and efficiency.
 ![image](https://github.com/SohelRana-aiub-Pro/Automatic-Car-License-Number-Plate-Detection-Recognition/assets/133596903/4d38cc6a-d978-4caa-8111-98af9c0e4b2f)
@@ -44,7 +44,6 @@ Output the recognized license plate number or alphanumeric code.
 Develop a user-friendly interface for inputting car images or videos.
 Implement the license plate detection and recognition algorithms using a programming language (e.g., Python) and relevant libraries (e.g., TensorFlow, OpenCV).
 Integrate the system with a database or storage mechanism to store the recognized license plate numbers along with the corresponding timestamps and other relevant information.
-
 Research based Project Summary; By leveraging the power of the Inception model, we propose a solution for automatic car license number plate detection and recognition. This system will significantly contribute to various applications, such as traffic monitoring, parking management, law enforcement, and toll collection. The proposed solution combines the strengths of deep learning, computer vision techniques, and OCR algorithms.
 
 
@@ -53,8 +52,13 @@ Research based Project Summary; By leveraging the power of the Inception model, 
 ![-](https://github.com/SohelRana-aiub-Pro/Automatic-Car-License-Number-Plate-Detection-Recognition/assets/133596903/e55b6ce6-bc2f-41c0-8fa5-7f7e67de0496)
 
 
-Dataset Available; 
 
+Dataset Available; 
 ->https://www.kaggle.com/datasets/aslanahmedov/number-plate-detection
+
+
+
+
+
 
 ->https://www.kaggle.com/datasets/adityadesai13/used-car-dataset-ford-and-mercedes
